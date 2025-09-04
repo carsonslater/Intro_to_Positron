@@ -72,4 +72,4 @@ def calculate_hat_matrix(df, response_col):
 data = {"x1": [1, 2, 3, 4, 5], "x2": [2, 2, 2, 2, 2], "y": [3, 5, 7, 9, 11]}
 df = pd.DataFrame(data)
 hat_mat = calculate_hat_matrix(df, "y")
-print(hat_mat)s
+print(hat_mat)

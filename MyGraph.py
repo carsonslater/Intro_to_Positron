@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from chatlas import ChatOllama
 
 # To activate venv,  `source myvenv/bin/activate`
 
